@@ -1,6 +1,6 @@
 {
-  "name": "@solomoto/ckeditor5-font-color",
-  "version": "16.0.2",
+  "name": "@iyevpak/ckeditor5-font-color",
+  "version": "30.0.0",
   "description": "Font color feature for CKEditor 5 with color picker.",
   "keywords": [
     "ckeditor",
